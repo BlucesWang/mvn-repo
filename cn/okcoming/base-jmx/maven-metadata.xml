@@ -3,11 +3,10 @@
   <groupId>cn.okcoming</groupId>
   <artifactId>base-jmx</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>0.0.2</release>
     <versions>
-      <version>0.0.1-SNAPSHOT</version>
-      <version>0.0.1</version>
+      <version>0.0.2</version>
     </versions>
-    <lastUpdated>20190309043637</lastUpdated>
+    <lastUpdated>20190309050141</lastUpdated>
   </versioning>
 </metadata>

@@ -12,7 +12,6 @@
 	<name>common jmx operation</name>
 	<packaging>jar</packaging>
 
-
 	<dependencies>
 
 		<dependency>

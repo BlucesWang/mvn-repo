@@ -6,7 +6,7 @@
 
     <groupId>cn.okcoming</groupId>
     <artifactId>dbproxy-api</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -45,7 +45,7 @@
 
     <build>
       <plugins>
-          <!--  <plugin>
+            <plugin>
                   <groupId>org.apache.maven.plugins</groupId>
                   <artifactId>maven-jar-plugin</artifactId>
                   <version>3.0.2</version>
@@ -73,7 +73,7 @@
                           </goals>
                       </execution>
                   </executions>
-              </plugin>-->
+              </plugin>
 
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
